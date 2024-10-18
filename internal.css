@@ -1,0 +1,24 @@
+
+.link{
+    color: aqua;
+}
+span{
+    color: brown;
+}
+.link{
+    text-decoration-line: underline;
+    text-decoration-color: blanchedalmond;
+}
+#psedo-id:link{
+    color: black;
+}
+#box{
+    padding: 50px;
+    border-color: blue;
+    border-width: 10pa;
+    margin: 10px;
+}
+body{
+    background-image:url("https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/k/h/y/medium-anime-girls-beautiful-anime-scenery-aesthetic-hd-lofi-original-imagkzhghpfuvhvn.jpeg?q=90&crop=false");
+    
+}
